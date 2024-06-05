@@ -4,7 +4,7 @@
 [Go to My Dashboard](https://public.tableau.com/app/profile/devank.ingle/viz/Book1_17176071379460/Dashboard1#1)
 
 
-## PROJECT NAME:
+## 📌PROJECT NAME:
 
 Clothing Store Sales Data Analysis Using Tableau Dashboard 
 
@@ -12,7 +12,7 @@ Clothing Store Sales Data Analysis Using Tableau Dashboard
 
 Developed a comprehensive data analysis project for a clothing store, providing insights into sales trends, customer behavior, and inventory management. The dashboard is designed to be business-ready, allowing employees to make data-driven decisions by evaluating key performance indicators (KPIs) such as sales, customer demographics, and product performance.
 
-## APPROACH - PROJECT PLANNING & AIMS GRID: 
+## 📌APPROACH - PROJECT PLANNING & AIMS GRID: 
 
 ### 1. Purpose: What? Why? What do we want to achieve?
 
@@ -34,7 +34,7 @@ Developed a comprehensive data analysis project for a clothing store, providing 
 
   
   
-## DASHBOARD CONTENT:
+## 📌DASHBOARD CONTENT:
 
    1. Total Sales Per Month.
 
@@ -48,12 +48,12 @@ Developed a comprehensive data analysis project for a clothing store, providing 
 
 
 
-## DASHBOARD:
+## 📌DASHBOARD:
 
 ![FC OVERVIEW WHITE](https://github.com/devank99/Clothing-Store-Sales-Data-Analysis-Tableau-Dashboard-/blob/main/Tableau%20analysis%20Dashboard.png)
 
 
-### OVERVIEW OF VISUALIZATION:
+### 📌OVERVIEW OF VISUALIZATION:
 
    1) The vertical bar chart shows the total sales done by the store per month.
 
@@ -66,7 +66,7 @@ Developed a comprehensive data analysis project for a clothing store, providing 
    5) The horizontal bar graph showsthe top 5 staes that have highest total order values.
 
 
-## Insight Gained:
+## 📌Insight Gained:
 
     • 31,047 - Total number of orders placed.
    
@@ -81,7 +81,7 @@ Developed a comprehensive data analysis project for a clothing store, providing 
     • Top 5 sates by sum of total sales amount were maharastra,karnataka,uttar pradesh,tamil nadu and telangana.
 
    
-## Suggestions to increase sales based on the insights
+## 📌Suggestions to increase sales based on the insights
 
  ### Suggestions to Increase Sales
 
