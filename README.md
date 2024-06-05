@@ -6,7 +6,7 @@
 
 ## PROJECT NAME:
 
-# ClothingStoreSales Data Analysis Using Tableau Dashboard 
+Clothing Store Sales Data Analysis Using Tableau Dashboard 
 
 ## ABOUT PROJECT:
 
@@ -32,14 +32,6 @@ Developed a comprehensive data analysis project for a clothing store, providing 
      
      3) Enhanced Customer Experience: Improve customer satisfaction ratings by 20% within the next 3 months by personalizing marketing and promotions based on customer preferences and behavior.
 
-
-
-
-
-  
-  The end result of the clothing store sales data analysis is to achieve the following:
-1) Improved Sales Performance: Increase sales revenue by 15% within the next 6 months by optimizing inventory levels, pricing, and marketing strategies.
-2) Enhanced Customer Experience: Improve customer satisfaction ratings by 20% within the next 3 months by personalizing marketing and promotions based on customer preferences and behavior.
   
   
 ## DASHBOARD CONTENT:
@@ -58,7 +50,7 @@ Developed a comprehensive data analysis project for a clothing store, providing 
 
 ## DASHBOARD:
 
-![FC OVERVIEW WHITE](https://public.tableau.com/app/profile/devank.ingle/viz/Book1_17176071379460/Dashboard1#1)
+![FC OVERVIEW WHITE](https://github.com/devank99/Clothing-Store-Sales-Data-Analysis-Tableau-Dashboard-/blob/main/Tableau%20analysis%20Dashboard.png)
 
 
 ### OVERVIEW OF VISUALIZATION:
@@ -112,9 +104,9 @@ Developed a comprehensive data analysis project for a clothing store, providing 
 5. Promotions for Underperforming Channels and Demographics**
    Balanced Strategy: Boost sales through other platforms with collaborations and special discounts.
    Engage Males: Create campaigns to attract male customers, highlighting men’s fashion and offering targeted deals.
-## NOTE:
 
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+
+
 
 
 
