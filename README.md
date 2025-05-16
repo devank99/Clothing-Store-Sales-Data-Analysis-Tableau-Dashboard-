@@ -50,7 +50,7 @@ Developed a comprehensive data analysis project for a clothing store, providing 
 
 ## 📌DASHBOARD:
 
-![FC OVERVIEW WHITE](https://github.com/devank99/Clothing-Store-Sales-Data-Analysis-Tableau-Dashboard-/blob/main/Tableau%20Dashboard.png)
+![FC OVERVIEW WHITE](https://github.com/devank99/Clothing-Store-Sales-Data-Analysis-Tableau-Dashboard-/blob/main/Clothing%20store%20sales%20dashboard.png)
 
 
 ### 📌OVERVIEW OF VISUALIZATION:
